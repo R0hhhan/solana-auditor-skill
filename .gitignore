@@ -1,0 +1,31 @@
+# Solana Auditor Skill
+
+# Dependencies
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Build artifacts
+target/
+dist/
+build/
+
+# Test artifacts
+trident-tests/
+.surfpool/
